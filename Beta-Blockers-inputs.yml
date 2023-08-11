@@ -1,0 +1,225 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/beta-blockers-atenixco---primary.py
+inputModule3:
+  class: File
+  path: python/beta-blockers-lopresor---primary.py
+inputModule4:
+  class: File
+  path: python/beta-blockers-pharmacia---primary.py
+inputModule5:
+  class: File
+  path: python/beta-blockers-novartis---primary.py
+inputModule6:
+  class: File
+  path: python/beta-blockers-emcor---primary.py
+inputModule7:
+  class: File
+  path: python/beta-blockers-025mg---primary.py
+inputModule8:
+  class: File
+  path: python/beta-blockers-375mg---primary.py
+inputModule9:
+  class: File
+  path: python/beta-blockers-sotacor---primary.py
+inputModule10:
+  class: File
+  path: python/beta-blockers-suspension---primary.py
+inputModule11:
+  class: File
+  path: python/beta-blockers-betim---primary.py
+inputModule12:
+  class: File
+  path: python/beta-blockers-hydrochloride---primary.py
+inputModule13:
+  class: File
+  path: python/sectral-beta-blockers---primary.py
+inputModule14:
+  class: File
+  path: python/beta-blockers-bristol---primary.py
+inputModule15:
+  class: File
+  path: python/beta-blockers-sanofi---primary.py
+inputModule16:
+  class: File
+  path: python/beta-blockers-3125mg---primary.py
+inputModule17:
+  class: File
+  path: python/beta-blockers-bisoprolol---primary.py
+inputModule18:
+  class: File
+  path: python/beta-blockers-400mg---primary.py
+inputModule19:
+  class: File
+  path: python/beta-blockers-sotalol---primary.py
+inputModule20:
+  class: File
+  path: python/beta-blockers-oxprenolol---primary.py
+inputModule21:
+  class: File
+  path: python/beta-blockers-modified---primary.py
+inputModule22:
+  class: File
+  path: python/beta-blockers-focus---primary.py
+inputModule23:
+  class: File
+  path: python/beta-blockers-roche---primary.py
+inputModule24:
+  class: File
+  path: python/beta-blockers-acebutolol---primary.py
+inputModule25:
+  class: File
+  path: python/corgaretic-beta-blockers---primary.py
+inputModule26:
+  class: File
+  path: python/beta-blockers-pindolol---primary.py
+inputModule27:
+  class: File
+  path: python/beta-blockers-tablet---primary.py
+inputModule28:
+  class: File
+  path: python/beta-blockers-nifedipine---primary.py
+inputModule29:
+  class: File
+  path: python/beta-blockers-totamol---primary.py
+inputModule30:
+  class: File
+  path: python/beta-blockers-chlortalidone---primary.py
+inputModule31:
+  class: File
+  path: python/beta-blockers-lagap---primary.py
+inputModule32:
+  class: File
+  path: python/beta-blockers-pantheon---primary.py
+inputModule33:
+  class: File
+  path: python/beta-blockers-capsule---primary.py
+inputModule34:
+  class: File
+  path: python/beta-blockers-wyeth---primary.py
+inputModule35:
+  class: File
+  path: python/beta-blockers-625mg---primary.py
+inputModule36:
+  class: File
+  path: python/beta-blockers-atenolol---primary.py
+inputModule37:
+  class: File
+  path: python/beta-blockers-cardicor---primary.py
+inputModule38:
+  class: File
+  path: python/beta-blockers-sovereign---primary.py
+inputModule39:
+  class: File
+  path: python/beta-blockers-recordati---primary.py
+inputModule40:
+  class: File
+  path: python/beta-blockers-prestim---primary.py
+inputModule41:
+  class: File
+  path: python/beta-blockers-atenamin---primary.py
+inputModule42:
+  class: File
+  path: python/beta-blockers-ashbourne---primary.py
+inputModule43:
+  class: File
+  path: python/beta-blockers-bipranix---primary.py
+inputModule44:
+  class: File
+  path: python/beta-blockers-amdipharm---primary.py
+inputModule45:
+  class: File
+  path: python/beta-blockers-antipressan---primary.py
+inputModule46:
+  class: File
+  path: python/totaretic-beta-blockers---primary.py
+inputModule47:
+  class: File
+  path: python/beta-blockers-tenormin---primary.py
+inputModule48:
+  class: File
+  path: python/beta-blockers-maleate---primary.py
+inputModule49:
+  class: File
+  path: python/beta-blockers-tenchlor---primary.py
+inputModule50:
+  class: File
+  path: python/beta-blockers-metoro---primary.py
+inputModule51:
+  class: File
+  path: python/beta-blockers-amiloride---primary.py
+inputModule52:
+  class: File
+  path: python/beta-blockers-160mg---primary.py
+inputModule53:
+  class: File
+  path: python/beta-blockers-mepranix---primary.py
+inputModule54:
+  class: File
+  path: python/beta-blockers-hillcross---primary.py
+inputModule55:
+  class: File
+  path: python/beta-blockers-congescor---primary.py
+inputModule56:
+  class: File
+  path: python/beta-blockers-lexon---primary.py
+inputModule57:
+  class: File
+  path: python/beta-blockers-visken---primary.py
+inputModule58:
+  class: File
+  path: python/beta-blockers-metoprolol---primary.py
+inputModule59:
+  class: File
+  path: python/beta-blockers-wockhardt---primary.py
+inputModule60:
+  class: File
+  path: python/beta-blockers-astrazenec---primary.py
+inputModule61:
+  class: File
+  path: python/beta-blockers-actavis---primary.py
+inputModule62:
+  class: File
+  path: python/beta-blockers-200mg---primary.py
+inputModule63:
+  class: File
+  path: python/beta-blockers-sandoz---primary.py
+inputModule64:
+  class: File
+  path: python/beta-blockers-tillomed---primary.py
+inputModule65:
+  class: File
+  path: python/beta-blockers-zentiva---primary.py
+inputModule66:
+  class: File
+  path: python/beta-blockers-monocor---primary.py
+inputModule67:
+  class: File
+  path: python/beta-blockers-liquid---primary.py
+inputModule68:
+  class: File
+  path: python/beta-blockers-celiprolol---primary.py
+inputModule69:
+  class: File
+  path: python/beta-blockers-100mg---primary.py
+inputModule70:
+  class: File
+  path: python/beta-blockers-tartrate---primary.py
+inputModule71:
+  class: File
+  path: python/geigy-beta-blockers---primary.py
+inputModule72:
+  class: File
+  path: python/beta-blockers-aventi---primary.py
+inputModule73:
+  class: File
+  path: python/beta-blockers-trandate---primary.py
+inputModule74:
+  class: File
+  path: python/output-cases.py
